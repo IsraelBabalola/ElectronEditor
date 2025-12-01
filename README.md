@@ -3,7 +3,7 @@
 An Electron-based Windows application for uploading, syncing, viewing, and processing high-resolution image data.
 This project was built as a full-stack evaluation of Electron architecture, client–server synchronization, UI/UX design, and image-processing workflows.
 
-# Demo
+## Demo
 https://www.youtube.com/watch?v=ekZzQPQxzFg
 
 ## Overview
